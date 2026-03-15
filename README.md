@@ -55,7 +55,7 @@ Electricity-consumption-analysis
 
 ## Explanation Video
 
-https://drive.google.com/file/d/1fZuuA19zERKZNF57YKLDMckTeMAcjjum/view?usp=sharing
+https://drive.google.com/file/d/1MY-xbQAhMKKcHc2dNJeyoOc_4PkOhXOf/view?usp=drivesdk
 
 ## How to Run the Project
 
