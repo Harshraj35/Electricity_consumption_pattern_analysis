@@ -74,9 +74,8 @@ https://drive.google.com/file/d/1fZuuA19zERKZNF57YKLDMckTeMAcjjum/view?usp=shari
 
 ## Authors
 
-* **Neha Kumari** - B.Tech CSE-Data Science
-* **Aishvarya Sahu** - B.Tech Computer Science
-* **Ravi Ahirwar** - B.Tech Computer Science
+* **Harsh raj - B tech Data science
+* 
 
 ## Future Improvements
 
